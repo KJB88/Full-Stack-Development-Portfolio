@@ -6,8 +6,11 @@ This is the collection of all the projects forFull-Stack Development.
   <h3>Software Development Bootcamp (Tech Educators)</h3>
     <ul>
       <li><a href="https://github.com/KJB88/TechEd_SD-W01">Stylised Static Website</a> - A static website designed to show proficiency with standard HTML and CSS syntax, design and approaches. Some JavaScript is included here.</li>
-      <li><a href="https://github.com/KJB88/KJB88.github.io">KJB88 Portfolio Website</a> - A static website created with Jekyll and alshedivat's al-folio theme (<a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>).</li>
     </ul>
+  <h3> Personal Projects</h3>
+  <ul>
+      <li><a href="https://github.com/KJB88/KJB88.github.io">KJB88 Portfolio Website</a> - A static website created with Jekyll and alshedivat's al-folio theme (<a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>).</li>
+  </ul>
   <!--
   <h3>Clones</h3>
     <ul>
