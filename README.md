@@ -1,5 +1,6 @@
 <div align="center"><h1>🖥️ Full-Stack Development Portfolio 🖥️:</h1>
-This is the collection of all the projects forFull-Stack Development.
+    <p><a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> | <a href="http://kjb88.github.io">Portfolio</a> | <a href="mailto:kevinbarr.business@gmail.com">Email</a></p>
+ <p>This is the collection of all the projects forFull-Stack Development.</p>
 </div>
 <div>
   <h2>Projects</h2>
@@ -9,7 +10,7 @@ This is the collection of all the projects forFull-Stack Development.
     </ul>
   <h3> Personal Projects</h3>
   <ul>
-      <li><a href="https://github.com/KJB88/KJB88.github.io">KJB88 Portfolio Website</a> - A static website created with Jekyll and based on alshedivat's al-folio theme (<a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>). This is still heavily WIP.</li>
+      <li><a href="https://github.com/KJB88/KJB88.github.io">KJB88 'Portfolio' Website</a> - A static website created with Jekyll and based on alshedivat's al-folio theme (<a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>). This is still heavily WIP.</li>
   </ul>
   <!--
   <h3>Clones</h3>
