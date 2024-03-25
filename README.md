@@ -31,7 +31,7 @@
 <h2>Core Competencies</h2>
 <ul>
   <li><b>Languages</b>: HTML, CSS, JavaScript</li>
-  <li><b>Technologies</b>: Bootstrap, Jekyll</li>
+  <li><b>Technologies</b>: Bootstrap, Jekyll, JQuery</li>
   <li><b>Supporting Tools</b>: Git (via CLI), Visual Studio Code</li>
 </ul>
 </div>
