@@ -10,7 +10,7 @@
     </ul>
   <h3> Personal Projects</h3>
   <ul>
-      <li><a href="https://github.com/KJB88/KJB88.github.io">KJB88 'Portfolio' Website</a> - A static website created with Jekyll and based on alshedivat's al-folio theme (<a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>). This is still heavily WIP.</li>
+      <li><a href="https://github.com/KJB88/KJB88.github.io">KJB88 'Portfolio' Website</a> - A static website created with Jekyll and based on alshedivat's <a href="https://github.com/alshedivat/al-folio"> al-folio theme</a>. This is still heavily WIP.</li>
   </ul>
   <!--
   <h3>Clones</h3>
