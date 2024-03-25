@@ -1,4 +1,4 @@
-<div align="center"><h1>🖥️ Full-Stack Development Portfolio 🖥️:</h1>
+<div align="center"><h1>🖥️ Full-Stack Development Portfolio 🖥️</h1>
     <p><a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> | <a href="http://kjb88.github.io">Portfolio</a> | <a href="mailto:kevinbarr.business@gmail.com">Email</a></p>
  <p>This is the collection of all the projects forFull-Stack Development.</p>
 </div>
