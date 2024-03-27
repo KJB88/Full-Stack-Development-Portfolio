@@ -6,7 +6,7 @@
         <a href="mailto:kevinbarr.business@gmail.com">Email</a> | <a href="https://github.com/KJB88">Github</a>
     </p>
  <p>
-     This is the collection of all the projects for Full-Stack Development.
+     This is the collection of all the projects for Web Development.
  </p>
 </div>
 <div>
