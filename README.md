@@ -11,7 +11,7 @@
 </div>
 <div>
   <h2>Projects</h2>
-  <h3>Software Development Bootcamp (Tech Educators)</h3>
+  <h3>SW-Dev Bootcamp (Tech Educators)</h3>
     <ul>
       <li><a href="https://github.com/KJB88/TechEd_SD-W01">TE-W01: Stylised Static Website</a> - A static website designed to show proficiency with standard HTML and CSS syntax, design and approaches. Some JavaScript is included here.</li>
         <li><a href="https://github.com/KJB88/TechEd_SD-W02">TE-W02: Clicker Idle Game</a> - Webpage for an idle clicker game (similar to Cookie Clicker) with JavaScript back-end. Stylised front-end. Currently WIP prior to 02/04/2024.</li>
