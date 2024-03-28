@@ -2,8 +2,9 @@
     <h1>🕸️ Web Development Portfolio 🕸️</h1>
     <p>
         <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
-        <a href="http://kjb88.github.io">Portfolio</a> |
-        <a href="mailto:kevinbarr.business@gmail.com">Email</a> | <a href="https://github.com/KJB88">Github</a>
+        <a href="http://kjb88.github.io">Website</a> |
+        <a href="mailto:kevinbarr.business@gmail.com">Email</a> |
+        <a href="https://github.com/KJB88">Github</a>
     </p>
  <p>
      This is the collection of all the projects for Web Development.
