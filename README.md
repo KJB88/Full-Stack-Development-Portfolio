@@ -22,6 +22,7 @@
     <ul>
         <li><a href="https://github.com/KJB88/TechEd_SD-W01">TE-W01: Stylised Static Website</a> - A static website designed to show proficiency with standard HTML and CSS syntax, design and approaches. Some JavaScript is included here.</li>   
         <li><a href="https://github.com/KJB88/TechEd_SD-W02">TE-W02: Clicker Idle Game</a> - Webpage for an idle clicker game (similar to Cookie Clicker) with JavaScript back-end. Stylised front-end.</li>
+        <li><a href="https://github.com/KJB88/TechEd_SD-W03">TE-W03: Accessible & Responsive Image Gallery</a> - An Image Gallery using the Unsplash! API to search for and randomise images. Also includes local images to handle fast-loading VS image quality. A focus on accessibility (verified by WAVE) and mobile responsiveness.</li>
     </ul>
 </section>
   <!--
