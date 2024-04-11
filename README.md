@@ -15,8 +15,10 @@
 <section>
   <h2>Projects</h2>
     <h3> Personal Projects</h3>
+    <h4>Web Development</h4>
     <ul>
       <li><a href="https://github.com/KJB88/KJB88.github.io">My Personal Website</a> - A static website created with Jekyll and based on alshedivat's <a href="https://github.com/alshedivat/al-folio"> al-folio theme</a>. This is still heavily WIP.</li>
+         <!--   <h4>Full Stack Development</h4> -->
     </ul> 
     <h3>SW-Dev Bootcamp (Tech Educators)</h3>
     <h4>Web Development</h4>
@@ -47,7 +49,8 @@
 <h2>Core Competencies</h2>
 <ul>
   <li><b>Languages</b>: JavaScript, HTML, CSS </li>
-  <li><b>Technologies</b>: Bootstrap, Jekyll, JQuery, particle.js, mo.js, SQL, Node.js, Express, CORS</li>
+  <li><b>Web Dev Tech</b>: Bootstrap, Jekyll, JQuery, particle.js, mo.js</li>
+    <li><b>Full Stack Tech</b>: SQL, Node.js, Express, CORS</li>
   <li><b>Supporting Tools</b>: Git (CLI, Github), Visual Studio Code</li>
 </ul>
 </div>
