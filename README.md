@@ -1,6 +1,6 @@
 <section>
     <div align="center">
-        <h1>📠 Full Stack Portfolio 📠</h1>
+        <h1>📠 Web Dev / Full Stack Portfolio 📠</h1>
         <p>
             <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
             <a href="http://kjb88.github.io">Website</a> |
@@ -8,7 +8,7 @@
             <a href="https://github.com/KJB88">Github</a>
         </p>
         <p>
-            This is the collection of all the projects for Web Development.
+            This is the collection of all the projects for Web Development and Full Stack Development.
         </p>
     </div>
 </section>
