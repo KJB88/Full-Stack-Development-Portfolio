@@ -1,6 +1,6 @@
 <section>
     <div align="center">
-        <h1>🕸️ Web Development Portfolio 🕸️</h1>
+        <h1>📠 Full Stack Portfolio 📠</h1>
         <p>
             <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
             <a href="http://kjb88.github.io">Website</a> |
@@ -45,7 +45,7 @@
 <h2>Core Competencies</h2>
 <ul>
   <li><b>Languages</b>: JavaScript, HTML, CSS </li>
-  <li><b>Technologies</b>: Bootstrap, Jekyll, JQuery, particle.js, mo.js</li>
+  <li><b>Technologies</b>: Bootstrap, Jekyll, JQuery, particle.js, mo.js, SQL, Node.js, Express, CORS</li>
   <li><b>Supporting Tools</b>: Git (CLI, Github), Visual Studio Code</li>
 </ul>
 </div>
