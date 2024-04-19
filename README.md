@@ -27,7 +27,8 @@
         <li><a href="https://github.com/KJB88/TechEd_SD-W02">TE-W02: Clicker Idle Game</a> - Webpage for an idle clicker game (similar to Cookie Clicker) with JavaScript back-end. Stylised front-end.</li>
         <li><a href="https://github.com/KJB88/TechEd_SD-W03">TE-W03: Accessible & Responsive Image Gallery</a> - An Image Gallery using the Unsplash! API to search for and randomise images. Also includes local images to handle fast-loading VS image quality. A focus on accessibility (verified by WAVE) and mobile responsiveness.</li>
             <h4>Full Stack Development</h4>
-        <li><a href="https://github.com/KJB88/TechEd_SD-W04">TE-W04: Guest Book with Persistent Messages</a> - An old 90s/00s style webpage guest book that utilizes GET/POST requests to a custom server which serves information from an SQLite database. (WIP)</li>
+        <li><a href="https://github.com/KJB88/TechEd_SD-W04">TE-W04: Guest Book with Persistent Messages</a> - An old 90s/00s style webpage guest book that utilizes GET/POST requests to a custom server which serves information from an SQLite database.</li>
+        <li><a href="https://github.com/KJB88/TechEd_SD-W05">TE-W05: Group Project: IMDB for TV Shows</a> - A gallery site and supporting backend and database to fulfil requests. All about writing reviews about TV shows.</li>
     </ul>
 </section>
   <!--
